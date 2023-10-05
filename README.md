@@ -1,4 +1,5 @@
 # Project_4
+![image](https://github.com/AnaTipps/Project_4/assets/131827518/daa06e14-be9d-4474-9a14-82e06e9ec5da)
 
 Title: Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis
 
