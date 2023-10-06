@@ -45,6 +45,8 @@ PROJECT STRATEGY:
    Evaluate the model on the test set to measure its real-world performance.
 7. Visualization and Reporting:
    Use Python Matplotlib and Tableau to create visualizations that showcase the model's performance.
+   ![image](https://github.com/AnaTipps/Project_4/assets/131827518/cd3f51f9-14c6-40bf-91b8-17b1ee19ff27)
+
 8. Documentation:
    Document the entire project, including data sources, data preprocessing steps, model selection, and deployment process using Github and Readme files.
 
@@ -52,5 +54,6 @@ PROJECT STRATEGY:
 
    FINDINGS:
    https://public.tableau.com/app/profile/chioma.uche/viz/BreastCancerProject_16962803876010/Story1?publish=yes
-
+   https://public.tableau.com/app/profile/ana.luisa.tipple/viz/MLModelsPerformance/Story1
    https://public.tableau.com/app/profile/chenita.francis.hare/viz/BreastCancerMorphologyProjectOctober2023/Story1?publish=yes
+   
