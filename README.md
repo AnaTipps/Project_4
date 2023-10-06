@@ -34,16 +34,18 @@ PROJECT STRATEGY:
    Use Python Pandas to load and preprocess the dataset. This includes handling missing values, encoding categorical variables if necessary, and scaling features for consistency.
 3. Exploratory Data Analysis (EDA):
    Utilize Tableau and Python pandas to visualize the dataset. Explore statistics, distributions, and correlations between features. EDA will help in gaining insights into the data and understanding which features are relevant for breast cancer detection.
-4. Machine Learning (Model, Fit, Predict):
+   ![image](https://github.com/AnaTipps/Project_4/assets/131827518/0842414a-7891-4494-86f7-fb106242d29f)
+
+5. Machine Learning (Model, Fit, Predict):
    Select appropriate machine learning algorithms from Scikit-learn for classification. Algorithms like Logistic Regression, Random Forest, Neural Networks and Decision Tree) are good candidates for binary classification tasks like this.
    Split the dataset into training and testing sets to evaluate model performance.
    Train multiple models and compare their performance using metrics like accuracy, precision, recall, and F1-score.
-5. Model Evaluation and Comparison:
+6. Model Performance Evaluation and Comparison:
    Fine-tune hyperparameter
    Evaluate the model on the test set to measure its real-world performance.
-6. Visualization and Reporting:
+7. Visualization and Reporting:
    Use Python Matplotlib and Tableau to create visualizations that showcase the model's performance.
-7. Documentation:
+8. Documentation:
    Document the entire project, including data sources, data preprocessing steps, model selection, and deployment process using Github and Readme files.
 
    RESEARCH QUESTION: Which model,among the array of supervised learning algorithms assessed in this study demonstrates the highest effectiveness in precisely distinguishing between malignant and benign breast cancer?
@@ -51,4 +53,4 @@ PROJECT STRATEGY:
    FINDINGS:
    https://public.tableau.com/app/profile/chioma.uche/viz/BreastCancerProject_16962803876010/Story1?publish=yes
 
-https://public.tableau.com/app/profile/chenita.francis.hare/viz/BreastCancerMorphologyProjectOctober2023/Story1?publish=yes
+   https://public.tableau.com/app/profile/chenita.francis.hare/viz/BreastCancerMorphologyProjectOctober2023/Story1?publish=yes
